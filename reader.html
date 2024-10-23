@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonnyverse Vault Explorer</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Include your styles here -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1e1e1e; /* Dark background */
+            color: #e6e6e6; /* Light text */
+            margin: 0;
+            display: flex;
+            height: 100vh;
+        }
+        #app {
+            display: flex;
+            width: 100%;
+            position: relative; /* Relative position for resizable div */
+        }
+        #sidebar {
+            width: 250px;
+            background-color: #2a2a2a; /* Sidebar background */
+            padding: 20px;
+            border-right: 1px solid #444; /* Divider */
+            overflow-y: auto;
+            transition: width 0.2s ease; /* Smooth width transition */
+        }
+        #resizer {
+            width: 5px; /* Width of the resizer */
+            cursor: ew-resize; /* Cursor style when hovering over resizer */
+            background-color: #444; /* Resizer color */
+        }
+        #reader {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            transition: flex-grow 0.2s ease; /* Smooth transition when resizing */
+        }
+        #sidebar h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            color: #ffffff; /* Sidebar title color */
+        }
+        #fileList {
+            list-style-type: none;
+            padding: 0;
+        }
+        #fileList li {
+            padding: 10px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        #fileList li:hover {
+            background-color: #444; /* Hover effect */
+        }
+        #reader h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            color: #ffffff; /* Document title color */
+        }
+        #content {
+            background-color: #2e2e2e; /* Content background */
+            padding: 20px;
+            border-radius: 8px; /* Rounded corners */
+            max-height: calc(100vh - 100px); /* Limit height */
+            overflow-y: auto;
+            color: #e6e6e6; /* Content text color */
+            white-space: normal; /* Allow text wrapping */
+            word-wrap: break-word; /* Break long words */
+            line-height: 1.6; /* Improve readability */
+        }
+
+        /* Change hyperlink color */
+        a {
+            color: #F9D08A; /* Set hyperlink color to #F9D08A */
+            text-decoration: none; /* Optional: remove underline */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Optional: underline on hover */
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div id="sidebar">
+            <h2>Documents</h2>
+            <ul id="fileList"></ul>
+        </div>
+        <div id="resizer"></div> <!-- Resizer div -->
+        <div id="reader">
+            <h2>Document Viewer</h2>
+            <div id="content"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // Load the file list dynamically
+        async function loadFileList() {
+            try {
+                const response = await fetch('/files'); // Adjust the endpoint if necessary
+                if (!response.ok) throw new Error('Network response was not ok');
+                const fileList = await response.json();
+
+                const fileListElement = document.getElementById('fileList');
+                fileList.forEach(file => {
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a'); // Create a link element
+                    link.textContent = file;
+                    link.href = '#'; // Set href to # for local navigation
+                    link.onclick = () => loadFile(file); // Load the file on click
+                    listItem.appendChild(link); // Append the link to the list item
+                    fileListElement.appendChild(listItem);
+                });
+            } catch (error) {
+                console.error('Error loading file list:', error);
+            }
+        }
+
+        // Load and display the selected file
+        async function loadFile(fileName) {
+            try {
+                const response = await fetch(`/files/${fileName}`);
+                if (!response.ok) throw new Error('Error loading file');
+
+                const text = await response.text();
+                const htmlContent = marked.parse(text); // Use marked.parse to convert Markdown to HTML
+                document.getElementById('content').innerHTML = htmlContent;
+            } catch (error) {
+                console.error('Error loading file:', error);
+            }
+        }
+
+        // Initialize the file list
+        document.addEventListener('DOMContentLoaded', () => {
+            loadFileList();
+
+            // Set up resizer functionality
+            const resizer = document.getElementById('resizer');
+            const sidebar = document.getElementById('sidebar');
+            let isResizing = false;
+
+            resizer.addEventListener('mousedown', (event) => {
+                isResizing = true;
+            });
+
+            document.addEventListener('mouseup', () => {
+                isResizing = false;
+            });
+
+            document.addEventListener('mousemove', (event) => {
+                if (isResizing) {
+                    const newWidth = event.clientX;
+                    const minWidth = 100; // Minimum width for sidebar
+                    const maxWidth = window.innerWidth - 100; // Maximum width for sidebar
+
+                    if (newWidth >= minWidth && newWidth <= maxWidth) {
+                        sidebar.style.width = newWidth + 'px';
+                        // Adjust the reader's flex-basis accordingly
+                        const reader = document.getElementById('reader');
+                        const resizerWidth = resizer.offsetWidth;
+                        const totalWidth = window.innerWidth - newWidth - resizerWidth;
+                        reader.style.flexBasis = totalWidth + 'px';
+                    }
+                }
+            });
+
+            // Observe the sidebar for dynamic content (if needed)
+            const sidebarElement = document.getElementById('sidebar');
+            const observer = new MutationObserver(() => {
+                console.log('Sidebar updated');
+            });
+            observer.observe(sidebarElement, { childList: true, subtree: true });
+        });
+    </script>
+</body>
+</html>
