@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonnyverse Vault Explorer</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Include your styles here -->
+    <script src="path/to/marked.min.js"></script> <!-- Update this path -->
+    <script src="scripts.js" defer></script> <!-- Link to your scripts.js -->
+</head>
+<body>
+    <div id="app">
+        <div id="sidebar">
+            <h2>Documents</h2>
+            <ul id="fileList"></ul>
+        </div>
+        <div id="reader">
+            <h2>Document Viewer</h2>
+            <div id="content"></div>
+        </div>
+    </div>
+
+    <script>
+        async function loadFileList() {
+            try {
+                const response = await fetch('files'); // Adjust the endpoint if necessary
+                if (!response.ok) throw new Error('Network response was not ok');
+                const fileList = await response.json();
+
+                const fileListElement = document.getElementById('fileList');
+                fileList.forEach(file => {
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    link.href = `reader.html?file=${encodeURIComponent(file)}`; // Link to the reader with the file parameter
+                    link.textContent = file; // Set the link text
+                    listItem.appendChild(link);
+                    fileListElement.appendChild(listItem);
+                });
+            } catch (error) {
+                console.error('Error loading file list:', error);
+            }
+        }
+
+        // Initialize the file list
+        document.addEventListener('DOMContentLoaded', () => {
+            loadFileList();
+        });
+    </script>
+</body>
+</html>
