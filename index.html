@@ -4,91 +4,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Obsidian Vault Explorer</title>
-    <style>
-        body {
-            display: flex;
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        #sidebar {
-            width: 250px;
-            background-color: #f8f9fa;
-            padding: 10px;
-            height: 100vh;
-            overflow-y: auto;
-            border-right: 1px solid #ddd;
-        }
-        #sidebar h2 {
-            text-align: center;
-            color: #333;
-        }
-        #sidebar ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        #sidebar ul li {
-            padding: 8px;
-            cursor: pointer;
-            border-bottom: 1px solid #ddd;
-        }
-        #sidebar ul li:hover {
-            background-color: #e9ecef;
-        }
-        #content {
-            flex: 1;
-            padding: 20px;
-            overflow-y: auto;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css"> <!-- Include your styles here -->
+    <script src="path/to/marked.min.js"></script> <!-- Update this path -->
+    <script src="scripts.js" defer></script> <!-- Link to your scripts.js -->
 </head>
 <body>
-
-    <div id="sidebar">
-        <h2>Vault Documents</h2>
-        <ul id="fileList"></ul>
-    </div>
-
-    <div id="content">
-        <h1>Select a document to view</h1>
-        <div id="viewer"></div>
+    <div id="app">
+        <div id="sidebar">
+            <h2>Documents</h2>
+            <ul id="fileList"></ul>
+        </div>
+        <div id="reader">
+            <h2>Document Viewer</h2>
+            <div id="content"></div>
+        </div>
     </div>
 
     <script>
-        const fileListElement = document.getElementById('fileList');
-        const viewerElement = document.getElementById('viewer');
+        async function loadFileList() {
+            try {
+                const response = await fetch('files'); // Adjust the endpoint if necessary
+                if (!response.ok) throw new Error('Network response was not ok');
+                const fileList = await response.json();
 
-        function loadFileList() {
-            fetch('/files')
-                .then(response => response.json())
-                .then(fileList => {
-                    fileListElement.innerHTML = '';
-                    fileList.forEach(file => {
-                        const li = document.createElement('li');
-                        li.textContent = file;
-                        li.onclick = () => loadFile(file);
-                        fileListElement.appendChild(li);
-                    });
-                })
-                .catch(error => {
-                    console.error('Error fetching file list:', error);
+                const fileListElement = document.getElementById('fileList');
+                fileList.forEach(file => {
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    link.href = `reader.html?file=${encodeURIComponent(file)}`; // Link to the reader with the file parameter
+                    link.textContent = file; // Set the link text
+                    listItem.appendChild(link);
+                    fileListElement.appendChild(listItem);
                 });
+            } catch (error) {
+                console.error('Error loading file list:', error);
+            }
         }
 
-        function loadFile(fileName) {
-            fetch(`/view/${fileName}`)
-                .then(response => response.text())
-                .then(markdown => {
-                    viewerElement.innerHTML = markdown;  // Display HTML content
-                })
-                .catch(error => {
-                    console.error('Error loading file:', error);
-                });
-        }
-
-        loadFileList();
+        // Initialize the file list
+        document.addEventListener('DOMContentLoaded', () => {
+            loadFileList();
+        });
     </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </body>
 </html>
-
