@@ -1,3 +1,0 @@
-[[PRE-FLASH]] - [[WORLD WAR 3]]
-
-FACTIONS
