@@ -4,47 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Obsidian Vault Explorer</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Include your styles here -->
-    <script src="path/to/marked.min.js"></script> <!-- Update this path -->
-    <script src="scripts.js" defer></script> <!-- Link to your scripts.js -->
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #e6e6e6;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+        }
+        #app {
+            display: flex;
+            width: 100%;
+        }
+        #sidebar {
+            width: 250px;
+            background-color: #2a2a2a;
+            padding: 20px;
+            border-right: 1px solid #444;
+            overflow-y: auto;
+        }
+        #sidebar h2 {
+            margin-top: 0;
+            color: #ffffff;
+        }
+        #fileList {
+            list-style-type: none;
+            padding: 0;
+        }
+        #fileList li {
+            padding: 10px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        #fileList li:hover {
+            background-color: #444;
+        }
+    </style>
 </head>
 <body>
     <div id="app">
         <div id="sidebar">
             <h2>Documents</h2>
-            <ul id="fileList"></ul>
-        </div>
-        <div id="reader">
-            <h2>Document Viewer</h2>
-            <div id="content"></div>
+            <ul id="fileList">
+                <!-- Add each HTML file as a link here manually -->
+                <li><a href="reader.html?file=example1.html" style="color: #F9D08A;">Example Document 1</a></li>
+                <li><a href="reader.html?file=example2.html" style="color: #F9D08A;">Example Document 2</a></li>
+                <!-- Repeat for each document -->
+            </ul>
         </div>
     </div>
-
-    <script>
-        async function loadFileList() {
-            try {
-                const response = await fetch('files'); // Adjust the endpoint if necessary
-                if (!response.ok) throw new Error('Network response was not ok');
-                const fileList = await response.json();
-
-                const fileListElement = document.getElementById('fileList');
-                fileList.forEach(file => {
-                    const listItem = document.createElement('li');
-                    const link = document.createElement('a');
-                    link.href = `reader.html?file=${encodeURIComponent(file)}`; // Link to the reader with the file parameter
-                    link.textContent = file; // Set the link text
-                    listItem.appendChild(link);
-                    fileListElement.appendChild(listItem);
-                });
-            } catch (error) {
-                console.error('Error loading file list:', error);
-            }
-        }
-
-        // Initialize the file list
-        document.addEventListener('DOMContentLoaded', () => {
-            loadFileList();
-        });
-    </script>
 </body>
 </html>

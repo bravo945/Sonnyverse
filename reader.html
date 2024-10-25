@@ -4,40 +4,60 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document Viewer</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Include your styles here -->
-    <script src="path/to/marked.min.js"></script> <!-- Update this path -->
-    <script src="scripts.js" defer></script> <!-- Link to your scripts.js -->
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #e6e6e6;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #content {
+            max-width: 800px;
+            background-color: #2e2e2e;
+            padding: 20px;
+            border-radius: 8px;
+            overflow-y: auto;
+            color: #e6e6e6;
+            line-height: 1.6;
+        }
+        a {
+            color: #F9D08A;
+        }
+    </style>
 </head>
 <body>
-    <div id="app">
-        <div id="reader">
-            <h2>Document Viewer</h2>
-            <div id="content"></div>
-        </div>
-    </div>
-
+    <div id="content"></div>
     <script>
-        async function loadFile(fileName) {
-            try {
-                const response = await fetch(`files/${fileName}`); // Fetch the document
-                if (!response.ok) throw new Error('Error loading file');
-
-                const text = await response.text(); // Read the document text
-                const htmlContent = marked.parse(text); // Convert Markdown to HTML
-                document.getElementById('content').innerHTML = htmlContent; // Insert HTML into the content div
-            } catch (error) {
-                console.error('Error loading file:', error);
+        // Function to load the selected HTML file based on the URL parameter
+        function loadFile() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const fileName = urlParams.get('file');
+            if (!fileName) {
+                document.getElementById('content').innerHTML = "<p>No document selected.</p>";
+                return;
             }
+            
+            fetch(fileName)
+                .then(response => {
+                    if (!response.ok) throw new Error("File not found");
+                    return response.text();
+                })
+                .then(html => {
+                    document.getElementById('content').innerHTML = html;
+                })
+                .catch(error => {
+                    document.getElementById('content').innerHTML = "<p>Error loading document.</p>";
+                });
         }
 
-        // Get the filename from URL parameters
-        const urlParams = new URLSearchParams(window.location.search);
-        const fileName = urlParams.get('file');
-        if (fileName) {
-            loadFile(fileName); // Load the specified file
-        } else {
-            document.getElementById('content').innerHTML = '<p>No document specified.</p>'; // Handle no file case
-        }
+        // Load the file on page load
+        document.addEventListener('DOMContentLoaded', loadFile);
     </script>
 </body>
 </html>
