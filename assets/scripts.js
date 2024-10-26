@@ -1,4 +1,4 @@
-// Load the file list from the `vault` folder
+el// Load the file list from the `vault` folder
 async function loadFileList() {
     try {
         const response = await fetch('./vault/files.json'); // Adjusted to /vault
