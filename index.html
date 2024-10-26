@@ -6,7 +6,7 @@
     <title>Obsidian Vault Explorer</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        body {
+                body {
             font-family: Arial, sans-serif;
             background-color: #1e1e1e;
             color: #e6e6e6;
@@ -47,13 +47,16 @@
     <div id="app">
         <div id="sidebar">
             <h2>Documents</h2>
-            <ul id="fileList">
-                <!-- Add each HTML file as a link here manually -->
-                <li><a href="reader.html?file=example1.html" style="color: #F9D08A;">Example Document 1</a></li>
-                <li><a href="reader.html?file=example2.html" style="color: #F9D08A;">Example Document 2</a></li>
-                <!-- Repeat for each document -->
-            </ul>
+            <ul id="fileList"></ul>
+        </div>
+        <div id="reader">
+            <h2>Document Viewer</h2>
+            <div id="content"></div>
         </div>
     </div>
+
+    <!-- Updated script sources for GitHub Pages compatibility -->
+    <script src="./marked.min.js"></script>
+    <script src="./scripts.js"></script>
 </body>
 </html>
