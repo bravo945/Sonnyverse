@@ -1,7 +1,7 @@
-// Load the file list statically
+// Load the file list from the `vault` folder
 async function loadFileList() {
     try {
-        const response = await fetch('./files/files.json'); // Adjusted to a static JSON file path
+        const response = await fetch('./vault/files.json'); // Adjusted to /vault
         if (!response.ok) throw new Error('Network response was not ok');
         
         const fileList = await response.json();
@@ -17,10 +17,10 @@ async function loadFileList() {
     }
 }
 
-// Load and display selected HTML files
+// Load and display HTML content from the `/vault` folder
 async function loadFile(fileName) {
     try {
-        const response = await fetch(`./files/${fileName}`);
+        const response = await fetch(`./vault/${fileName}`);
         if (!response.ok) throw new Error('Error loading file');
         
         const htmlContent = await response.text();
@@ -30,5 +30,5 @@ async function loadFile(fileName) {
     }
 }
 
-// Initialize the file list on page load
+// Initialize file list on page load
 document.addEventListener('DOMContentLoaded', loadFileList);
