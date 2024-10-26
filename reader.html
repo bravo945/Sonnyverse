@@ -4,60 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document Viewer</title>
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1e1e1e;
-            color: #e6e6e6;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        #content {
-            max-width: 800px;
-            background-color: #2e2e2e;
-            padding: 20px;
-            border-radius: 8px;
-            overflow-y: auto;
-            color: #e6e6e6;
-            line-height: 1.6;
-        }
-        a {
-            color: #F9D08A;
-        }
-    </style>
+    <link rel="stylesheet" href="./assets/styles.css">
 </head>
 <body>
-    <div id="content"></div>
-    <script>
-        // Function to load the selected HTML file based on the URL parameter
-        function loadFile() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const fileName = urlParams.get('file');
-            if (!fileName) {
-                document.getElementById('content').innerHTML = "<p>No document selected.</p>";
-                return;
-            }
-            
-            fetch(fileName)
-                .then(response => {
-                    if (!response.ok) throw new Error("File not found");
-                    return response.text();
-                })
-                .then(html => {
-                    document.getElementById('content').innerHTML = html;
-                })
-                .catch(error => {
-                    document.getElementById('content').innerHTML = "<p>Error loading document.</p>";
-                });
-        }
+    <div id="reader">
+        <h2>Document Viewer</h2>
+        <div id="content"></div>
+    </div>
 
-        // Load the file on page load
-        document.addEventListener('DOMContentLoaded', loadFile);
-    </script>
+    <script src="./assets/scripts.js"></script>
 </body>
 </html>
