@@ -4,14 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document Viewer</title>
-    <link rel="stylesheet" href="./assets/styles.css">
+    <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-    <div id="reader">
-        <h2>Document Viewer</h2>
-        <div id="content"></div>
+    <div id="app">
+        <div id="sidebar">
+            <h2>Documents</h2>
+            <ul id="fileList">
+                <!-- Link each file here directly -->
+                <li><a href="vault/file1.html" target="_blank">File 1</a></li>
+                <li><a href="vault/file2.html" target="_blank">File 2</a></li>
+                <!-- Add more files as needed -->
+            </ul>
+        </div>
+        <div id="reader">
+            <h2>Document Viewer</h2>
+            <div id="content">
+                <p>Select a document to view it here.</p>
+            </div>
+        </div>
     </div>
-
-    <script src="./assets/scripts.js"></script>
 </body>
 </html>
