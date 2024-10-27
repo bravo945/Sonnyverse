@@ -2,20 +2,21 @@ document.addEventListener('DOMContentLoaded', loadFileList);
 
 function loadFileList() {
     const fileList = document.getElementById('fileList');
-    
-    // Clear placeholder items and add actual HTML files in `/vault`
+
+    // Clear any placeholders
     fileList.innerHTML = ''; 
 
-    // List of file paths in the vault folder, adjust as needed
+    // Define the list of HTML files in `/vault` manually
     const files = [
         'vault/file1.html',
         'vault/file2.html',
-        // Add other HTML files manually here
+        // Add each file as needed in this list
     ];
 
+    // Generate list items for each file
     files.forEach(file => {
         const listItem = document.createElement('li');
-        listItem.textContent = file.replace(/^.*[\\/]/, '').replace('.html', ''); // Display file name
+        listItem.textContent = file.replace(/^.*[\\/]/, '').replace('.html', ''); // Just show filename without path
         listItem.onclick = () => loadFile(file);
         fileList.appendChild(listItem);
     });
