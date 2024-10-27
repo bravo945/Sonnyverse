@@ -1,19 +1,39 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const fileListElement = document.getElementById('fileList');
+async function loadFileList() {
+    try {
+        const response = await fetch('/assets/files/files.json');
+        if (!response.ok) throw new Error('Network response was not ok');
+        
+        const fileList = await response.json();
+        const fileListElement = document.getElementById('fileList');
+        fileListElement.innerHTML = ''; // Clear any existing placeholders
 
-    const files = [
-        { name: "File 1", path: "vault/file1.html" },
-        { name: "File 2", path: "vault/file2.html" }
-        // Add more files manually here
-    ];
+        fileList.forEach(file => {
+            const listItem = document.createElement('li');
+            listItem.textContent = file.title || file;
+            listItem.onclick = () => loadFile(file.path || file);
+            fileListElement.appendChild(listItem);
+        });
+    } catch (error) {
+        console.error('Error loading file list:', error);
+        // Provide a fallback option if file list cannot be loaded
+        document.getElementById('fileList').innerHTML = `
+            <li onclick="loadFile('file1.html')">File 1</li>
+            <li onclick="loadFile('file2.html')">File 2</li>
+        `;
+    }
+}
 
-    files.forEach(file => {
-        const listItem = document.createElement('li');
-        const link = document.createElement('a');
-        link.href = file.path;
-        link.textContent = file.name;
-        link.target = "_blank";
-        listItem.appendChild(link);
-        fileListElement.appendChild(listItem);
-    });
-});
+function loadFile(fileName) {
+    const readerContent = document.getElementById('content');
+    fetch(`/vault/${fileName}`)
+        .then(response => {
+            if (!response.ok) throw new Error('Error loading file');
+            return response.text();
+        })
+        .then(htmlContent => {
+            readerContent.innerHTML = htmlContent;
+        })
+        .catch(error => console.error('Error loading file:', error));
+}
+
+document.addEventListener('DOMContentLoaded', loadFileList);
