@@ -31,9 +31,10 @@ function loadFile(fileName) {
             return response.text();
         })
         .then(htmlContent => {
-            readerContent.innerHTML = htmlContent;
+            readerContent.innerHTML = htmlContent; // Insert HTML content
         })
         .catch(error => console.error('Error loading file:', error));
 }
 
+// Load file list on page load
 document.addEventListener('DOMContentLoaded', loadFileList);
