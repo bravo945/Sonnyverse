@@ -8,8 +8,8 @@ function loadFileList() {
 
     // Define the list of HTML files in `/vault` manually
     const files = [
-        'vault/file1.html',
-        'vault/file2.html',
+     //   'vault/file1.html',
+     //   'vault/file2.html',
         // Add each file as needed in this list
     ];
 
