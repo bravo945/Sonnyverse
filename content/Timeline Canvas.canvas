@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"f346b937436189b1","x":-680,"y":-420,"width":400,"height":400,"type":"file","file":"Projects/Writing/Sonnyverse/Periods/Pre-Flash/PRE-FLASH.md"},
-		{"id":"d9cda06b695d0699","x":-260,"y":-420,"width":400,"height":400,"type":"file","file":"Projects/Writing/Sonnyverse/Periods/Post-Flash/POST-FLASH.md"},
-		{"id":"1a1baef44d3a5b77","x":-680,"y":0,"width":400,"height":400,"type":"file","file":"Projects/Games/Pax Historia/Red Pact Scenario/Timeline.md"}
-	],
-	"edges":[]
-}
