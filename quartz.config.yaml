@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Sonnyverse
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - not-for-github
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
