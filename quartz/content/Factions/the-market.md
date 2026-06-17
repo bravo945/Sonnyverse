@@ -6,7 +6,7 @@ The market is a loose militia encompassing most trade around the Halfmoon region
  
 ![[Projects/Writing/Sonnyverse/content/Gallery/Pasted image 20250817165404.png]]
 
-A key example of the [Market Defense Algorithm](Projects/Writing/Sonnyverse/content/Periods/Post-Flash/post-flash.md), the Market is a decentralized band of militiamen belonging to different shanty-towns across the region. Their goal is to help defend and regulate trade, establish trade routes and defend merchants from bandits and other hostile-groups.
+A key example of the [Market Defense Algorithm](Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/post-flash.md), the Market is a decentralized band of militiamen belonging to different shanty-towns across the region. Their goal is to help defend and regulate trade, establish trade routes and defend merchants from bandits and other hostile-groups.
 
 Each region the market inhabits has their own division with specific insignia and different agendas, with Halfmoon under the infamous White Star Division. Only named for the graffiti they draw, anywhere with their insignia is either a warning, or a way home.
 

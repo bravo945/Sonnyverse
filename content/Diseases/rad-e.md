@@ -2,7 +2,7 @@
 ***
 RAD-E is an earlier strain of the RAD-X phenomenon, serving as a more primitive and unpredictable form of the virus mostly found and preserved in secluded areas. Sub-strains and mutations depend on the environment the associated biomass resides in, though most mutate subtle, adaptive adjustments. RAD-E is distinguishable from other forms of RAD in its more pack-like and decentralized structure, with its hosts usually becoming slender and agile.
 
-![[Projects/Writing/Sonnyverse/content/Gallery/Pasted image 20250817164731.png]]
+![[rad-e-infected.png]]
 
 Though most information on RAD-E in the nuclear winter is hard to come by, the appearance and shift in habitat is a clear source of history for the strain. Most conclude that in earlier days, RAD-E defined itself from other vague strains by learning to grow in the dark. The moss of RAD-E is a blueish-grey color, appearing more like foamy moss than genuine vines. This moss can coat entire rooms, spreading quickly throughout halls with its faint color.
 

@@ -2,7 +2,7 @@
 title: Getting Started
 ---
 
-This guide walks you through setting up Quartz from scratch. If you already ran the [[Projects/Writing/Sonnyverse/content/index#🪴 Get Started|quickstart]] on the home page, you can skip ahead to whichever step you're on.
+This guide walks you through setting up Quartz from scratch. If you already ran the [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/index#🪴 Get Started|quickstart]] on the home page, you can skip ahead to whichever step you're on.
 
 ## Prerequisites
 

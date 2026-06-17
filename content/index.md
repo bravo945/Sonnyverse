@@ -33,13 +33,41 @@ Previously, we've had 2( - 3) games surrounding the sonnyverse. All 3 have been 
 
 Former projects:
 - Sonnyverse (Game)
+	- #sonnyversegame
 	- Detroit, MI
 - Sonnyverse: Corridor
+	- #corridor
 	- Chicago, IL
 - Project Epoch
+	- #epoch
 	- St. Louis, MO
+***
+# Indexing
 
+## Factions
+- [[cdf|(CDF) Civilian Defense Front]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/sticks-and-stones-union|Sticks and Stones Union]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/the-market|The Market]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/unamerica|Unamerica]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/uscpf|USCPF]]
+## Organizations
+- [[aics|(AICS) Artificial Intelligent Combat System]]
+- [[usdp|(USDP) United States Department of Preservation]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Organizations/the-vanguard-projects|The Vanguard Projects]]
+## Diseases
+### (RAD) Radiation Accelerated Disease
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-x|X-Strand]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-e|E-Strand]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-s|S-Strand]]
+## Periods
+### Pre-Flash
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Pre-Flash/pre-flash|Overview]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Pre-Flash/world-war-iii|World War III]]
+### Post-Flash
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/post-flash|Overview]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/nuclear-winter|Nuclear Winter]]
+- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/the-crowding|The Crowding]]
 
 ty
 
-![[Projects/Writing/Sonnyverse/content/Gallery/Image.png]]
+![[pink-bitch.png]]

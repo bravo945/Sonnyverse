@@ -2,7 +2,7 @@
 ***
 The Sticks and Stones Union (or SNS for short) is a group of survivors in the Chicago underground that originate from a union of homeless people who traveled the area before the flash.
 
-###### Field Symbol for the SNS![[Projects/Writing/Sonnyverse/content/Gallery/SSU has been here.png]]
+###### Field Symbol for the SNS![[ssu-has-been-here.png]]
 
 
 # Introduction
@@ -20,4 +20,4 @@ Calling the place home long before the Flash, the SNS had intricate knowledge of
 Though mostly unstructured, the community of the SNS takes pride in its small numbers, thinning itself across the underground with scavs and scouts to the point where no one in the Chicago underground is far from its presence.
 
 
-![[Projects/Writing/Sonnyverse/content/Gallery/Field codes.png]]
+![[ssu-field-codes.png]]

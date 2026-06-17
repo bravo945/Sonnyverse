@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a6249aa83d09a105","x":340,"y":-146,"width":250,"height":68,"type":"text","text":"epoch"},
+		{"id":"ce2a71e68a6fa814","x":60,"y":-146,"width":250,"height":68,"type":"text","text":"sonnyverse game"},
+		{"id":"891eb763af16b371","x":-500,"y":-138,"width":250,"height":60,"type":"text","text":"corridor"}
+	],
+	"edges":[]
+}

@@ -1,8 +1,8 @@
 #faction #postflash 
 Unamerica is a radical anarchist movement in the Chicago underground known for its meaningless brutality and violence against vulnerable survivors
-![[Projects/Writing/Sonnyverse/content/Gallery/Pasted image 20250817163601.png]]
+![[unamerica-flag.png]]
 
-Formed from susseptible minds looking for an ideological escape from the horrors of [the Crowding](https://discord.com/channels/1270266346743136286/1364563397122986034), the Unamerican movement was born from resentment of major powers and the cold result of their massive wars.
+Formed from susseptible minds looking for an ideological escape from the horrors of [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/the-crowding|the Crowding]], the Unamerican movement was born from resentment of major powers and the cold result of their massive wars.
 
 With many prominent and feared figures in the faction, the group is a disorganized, decentralized, and unnegotiable revolutionary movement that declares war on all things orderly. Radical in nature, every member grasps the same philosophy that condemns order and embraces a chaotic and impersonal world.
 
