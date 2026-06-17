@@ -1,8 +1,5 @@
 #document #atf [Link](https://after-the-flash-official.fandom.com/wiki/Radiation_Accelerated_Disease)
 ***
-> Because Cerberus lore is still WIP and low quality, I deleted the RTV-A virus and decommissioned the Cerberus faction entirely. Remaining mutant factions were pulled from my previous writing projects.
-
-> Because RAD-X has so recently gone widespread, more evolved stages with intentional mutation have not yet been developed, leaving the virus more primitive and zombie like at this time.
 # Overview
 
 The **Radiation Accelerated Disease**, commonly referred to as **RAD-X**, is a radiation-based disease that formed as a result of the [Flash](https://after-the-flash-official.fandom.com/wiki/The_Flash "The Flash"). RAD-X appears in many forms in the [After the Flash Series](https://after-the-flash-official.fandom.com/wiki/After_the_Flash_Series "After the Flash Series"), but the two strains responsible for creating the most abundant variants of mutants are RAD-XA and RAD-XB.
