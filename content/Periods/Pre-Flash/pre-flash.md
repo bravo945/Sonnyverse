@@ -1,6 +1,6 @@
 #preflash #Overview
 ***
-A summary of events before the flash (2044) that builds off of [[POST-FLASH]]
+A summary of events before the flash (2044) that builds off of [[Projects/Writing/Sonnyverse/content/Periods/Post-Flash/post-flash]]
 
 ## **Key Differences**
 

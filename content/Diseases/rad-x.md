@@ -1,4 +1,4 @@
-#document #atf [Link](https://after-the-flash-official.fandom.com/wiki/Radiation_Accelerated_Disease)
+#postflash #atf [Link](https://after-the-flash-official.fandom.com/wiki/Radiation_Accelerated_Disease)
 ***
 # Overview
 
@@ -30,13 +30,13 @@ During the incubation period of the RAD, the disease is rendered noninfectious a
 ## RAD-X-2: "Yellow/Green Sickness"
 Depending on the contracted strain, the host's skin color slowly transitions to a green or yellow pigment. The immune system is compromised and symptoms that resemble influenza begin to attack the respiratory system along with the neural system. Unlike the incubation stage, sickness is infectious and can be spread to others through direct contact with bodily fluids. However, the sickness can still be entirely cured with deradiators.
 
-## RAD-X-3: "Refugee"
-The skin pigmentation of the host continues to saturate into yellow and green hue. The symptoms from the sickness worsen as the host's mind begins to devolve into schizophrenia. Refugees are often irrationally paranoid and become extremely reclusive. RAD-3 marks the point of no return, where irreversible damage has already been done. Most refugees turn into RAD-4s, very few get the chance to turn into an Outcast.
+## RAD-X-3: "Newbie"
+The skin pigmentation of the host continues to saturate into yellow and green hue. The symptoms from the sickness worsen as the host's mind begins to devolve into schizophrenia. Newbies are often irrationally paranoid and become extremely reclusive. RAD-3 marks the point of no return, where irreversible damage has already been done. Most newbies turn into RAD-4s, very few get the chance to turn into an Outcast.
 
 ## RAD-X-4: "Marauder"
 The most versatile and abundant mutant in the wasteland, a Marauder's intelligence is retained but slowly begins to deteriorate as they evolve into a RAD-5. Alone, marauders continue even worsened symptoms from RAD-2 and RAD-3, but with other groups of mutants, their neural functions are hijacked to complete the objective of infecting others who have not been infected already and they continue to remain incredibly reclusive. Marauders act as footmen for organized biomass cells due to their ranged capabilities and large numbers, being able to fully handle firearms.
 
-## RAD-X-5: "Sapien/Undead"
+## RAD-X-5: "Zombie"
 RAD-5s are not often seen outside large concentrations of radiation like Lake Mead Nuclear or the formerly Infected Craterview. On the rare occasion that they are, infected are often seen spreading spores and standing idly by nuclear waste as the disease controls their mind to seek out any source of radiation to bathe in. While nearby nuclear waste, Sapiens primarily function as guards for mutant dens and, unless a Marauder is present, have no hesitation when it comes to attacking uninfected. RAD-5 acts as a buffer stage between physically altered mutants and those in the initial stages. Those with the Yellow Strain transform into a RAD-6A while those infected with the Green Strain transform into a RAD-6B.
 
 Additionally, RAD-5s also undergo a physical transformation as they further progress with the RAD-X disease. While these alterations force their body to take on an unsightly and ghastly appearance, their limbs are also vulnerable to detaching and their muscles will contort into unnatural positions. Sapiens will face detached limbs that expose their bone and tissue in their pathway to become a Creeper, and Chuckers will experience an accelerated muscle growth disproportionate to the rest of their body.

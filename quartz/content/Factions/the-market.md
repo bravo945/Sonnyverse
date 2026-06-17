@@ -4,9 +4,9 @@ The market is a loose militia encompassing most trade around the Halfmoon region
 
  The most recognizable sub-faction in southern Post Flash America during the [Nuclear Winter] era was the White Star.
  
-![[Pasted image 20250817165404.png]]
+![[Projects/Writing/Sonnyverse/content/Gallery/Pasted image 20250817165404.png]]
 
-A key example of the [Market Defense Algorithm](POST-FLASH.md), the Market is a decentralized band of militiamen belonging to different shanty-towns across the region. Their goal is to help defend and regulate trade, establish trade routes and defend merchants from bandits and other hostile-groups.
+A key example of the [Market Defense Algorithm](Projects/Writing/Sonnyverse/content/Periods/Post-Flash/post-flash.md), the Market is a decentralized band of militiamen belonging to different shanty-towns across the region. Their goal is to help defend and regulate trade, establish trade routes and defend merchants from bandits and other hostile-groups.
 
 Each region the market inhabits has their own division with specific insignia and different agendas, with Halfmoon under the infamous White Star Division. Only named for the graffiti they draw, anywhere with their insignia is either a warning, or a way home.
 

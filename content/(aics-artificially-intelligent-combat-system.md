@@ -1,4 +1,4 @@
-#preflash [[ARTIFICIAL INTELLIGENCE]]
+#preflash [[artificial-intelligence]]
 ***
 The Artificially Intelligent Combat System was a project under the umbrella of [the Vanguard Projects](https://discord.com/channels/1270266346743136286/1283517376859738132), which included a wide range of adaptive networks and military products designed to fortify and protect points-of-interest behind the frontlines of WWIII.
 

@@ -40,4 +40,4 @@ Former projects:
 
 ty
 
-![[Image.png]]
+![[Projects/Writing/Sonnyverse/content/Gallery/Image.png]]

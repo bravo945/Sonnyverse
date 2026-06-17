@@ -1,4 +1,4 @@
-*Requires Timeline Plugin* #Article #timeline [[Timeline Canvas.canvas|Canvas]]
+*Requires Timeline Plugin* #Article #timeline [[Projects/Writing/Sonnyverse/quartz/content/not-for-github/Timeline Canvas.canvas|Canvas]]
 ***
 
 ```timeline-labeled
