@@ -25,6 +25,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+
       - run: npx quartz build
 
       - name: Upload artifact
