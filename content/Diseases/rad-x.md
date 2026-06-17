@@ -1,5 +1,7 @@
 #postflash #atf [Link](https://after-the-flash-official.fandom.com/wiki/Radiation_Accelerated_Disease)
 ***
+*slightly edited atf wikia page cause im lazy. will come back to it later*
+# Radiation Accelerated Disease - 'X-Strand'
 # Overview
 
 The **Radiation Accelerated Disease**, commonly referred to as **RAD-X**, is a radiation-based disease that formed as a result of the [Flash](https://after-the-flash-official.fandom.com/wiki/The_Flash "The Flash"). RAD-X appears in many forms in the [After the Flash Series](https://after-the-flash-official.fandom.com/wiki/After_the_Flash_Series "After the Flash Series"), but the two strains responsible for creating the most abundant variants of mutants are RAD-XA and RAD-XB.
@@ -31,10 +33,9 @@ During the incubation period of the RAD, the disease is rendered noninfectious a
 Depending on the contracted strain, the host's skin color slowly transitions to a green or yellow pigment. The immune system is compromised and symptoms that resemble influenza begin to attack the respiratory system along with the neural system. Unlike the incubation stage, sickness is infectious and can be spread to others through direct contact with bodily fluids. However, the sickness can still be entirely cured with deradiators.
 
 ## RAD-X-3: "Newbie"
-The skin pigmentation of the host continues to saturate into yellow and green hue. The symptoms from the sickness worsen as the host's mind begins to devolve into schizophrenia. Newbies are often irrationally paranoid and become extremely reclusive. RAD-3 marks the point of no return, where irreversible damage has already been done. Most newbies turn into RAD-4s, very few get the chance to turn into an Outcast.
-
+The yellow/green pigmentation further saturates as the individual continues to mutate. At this stage is where the disease perverts the mind of its host, developing the necessary neurological components to connect to the hivemind. During this stage, one's mental state starts to completely erode, incentivizing social isolation and hostility. 'S-3', as a stage, often ends with one unconscious in a rested fetal position for 6-10 hours. It is at this point that the person is lost, and the disease is completely enveloped within the host.
 ## RAD-X-4: "Marauder"
-The most versatile and abundant mutant in the wasteland, a Marauder's intelligence is retained but slowly begins to deteriorate as they evolve into a RAD-5. Alone, marauders continue even worsened symptoms from RAD-2 and RAD-3, but with other groups of mutants, their neural functions are hijacked to complete the objective of infecting others who have not been infected already and they continue to remain incredibly reclusive. Marauders act as footmen for organized biomass cells due to their ranged capabilities and large numbers, being able to fully handle firearms.
+The most versatile and abundant mutant in the wasteland, a Marauder's intelligence is retained but slowly begins to deteriorate as they evolve into a X-5. Alone, marauders continue even worsened symptoms from X-2 and X-3, but with other groups of mutants, their neural functions are hijacked to complete the objective of infecting others who have not been infected already and they continue to remain incredibly reclusive. Marauders act as footmen for organized biomass cells due to their ranged capabilities and large numbers, being able to fully handle firearms.
 
 ## RAD-X-5: "Zombie"
 RAD-5s are not often seen outside large concentrations of radiation like Lake Mead Nuclear or the formerly Infected Craterview. On the rare occasion that they are, infected are often seen spreading spores and standing idly by nuclear waste as the disease controls their mind to seek out any source of radiation to bathe in. While nearby nuclear waste, Sapiens primarily function as guards for mutant dens and, unless a Marauder is present, have no hesitation when it comes to attacking uninfected. RAD-5 acts as a buffer stage between physically altered mutants and those in the initial stages. Those with the Yellow Strain transform into a RAD-6A while those infected with the Green Strain transform into a RAD-6B.

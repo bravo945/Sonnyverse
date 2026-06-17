@@ -46,27 +46,27 @@ Former projects:
 
 ## Factions
 - [[cdf|(CDF) Civilian Defense Front]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/sticks-and-stones-union|Sticks and Stones Union]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/the-market|The Market]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/unamerica|Unamerica]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/uscpf|USCPF]]
+- [[Sonnyverse/content/Factions/sticks-and-stones-union|Sticks and Stones Union]]
+- [[Sonnyverse/content/Factions/the-market|The Market]]
+- [[Sonnyverse/content/Factions/unamerica|Unamerica]]
+- [[Sonnyverse/content/Factions/uscpf|USCPF]]
 ## Organizations
 - [[aics|(AICS) Artificial Intelligent Combat System]]
 - [[usdp|(USDP) United States Department of Preservation]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Organizations/the-vanguard-projects|The Vanguard Projects]]
+- [[Organizations/the-vanguard-projects|The Vanguard Projects]]
 ## Diseases
 ### (RAD) Radiation Accelerated Disease
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-x|X-Strand]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-e|E-Strand]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Diseases/rad-s|S-Strand]]
+- [[Diseases/rad-x|X-Strand]]
+- [[Diseases/rad-e|E-Strand]]
+- [[Diseases/rad-s|S-Strand]]
 ## Periods
 ### Pre-Flash
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Pre-Flash/pre-flash|Overview]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Pre-Flash/world-war-iii|World War III]]
+- [[Periods/Pre-Flash/pre-flash|Overview]]
+- [[Periods/Pre-Flash/world-war-iii|World War III]]
 ### Post-Flash
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/post-flash|Overview]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/nuclear-winter|Nuclear Winter]]
-- [[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Periods/Post-Flash/the-crowding|The Crowding]]
+- [[Periods/Post-Flash/post-flash|Overview]]
+- [[Periods/Post-Flash/nuclear-winter|Nuclear Winter]]
+- [[Periods/Post-Flash/the-crowding|The Crowding]]
 
 ty
 

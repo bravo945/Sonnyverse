@@ -1,5 +1,7 @@
 #postflash #atf #corridor
 ***
+# Radiation Accelerated Disease - 'E-Strand'
+
 RAD-E is an earlier strain of the RAD-X phenomenon, serving as a more primitive and unpredictable form of the virus mostly found and preserved in secluded areas. Sub-strains and mutations depend on the environment the associated biomass resides in, though most mutate subtle, adaptive adjustments. RAD-E is distinguishable from other forms of RAD in its more pack-like and decentralized structure, with its hosts usually becoming slender and agile.
 
 ![[rad-e-infected.png]]
