@@ -4,6 +4,8 @@ website is work in progress
 
 a lot of pages dont work rn im getting to them
 
+[discord](https://discord.gg/ed6N6DD4dy)
+
 ***
 
 ![sonnyverse corridor screenshot](https://media.discordapp.net/attachments/1364048203678351420/1370987228628783205/image.png?ex=6a32d11b&is=6a317f9b&hm=202c28402ac6a6f1c853f183cc02de57056c0a1e0710d9b2153f230459dc2353&=&format=webp&quality=lossless&width=1094&height=580)

@@ -1,4 +1,4 @@
-#postflash #faction #corridor
+#postflash #faction #corridor #deep-winter
 ***
 The market is a loose militia encompassing most trade around the Halfmoon region.
 
