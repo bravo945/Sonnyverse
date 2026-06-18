@@ -72,7 +72,15 @@ Currently, the nearest notable biomass structure is growing along the nuclear cr
 
 
 # Relations with Other Strains
+
+## RAD
+- Neutral
+RAD instances are recognized as fellow mutants, though their disconnection from any hivemind severs them of any deeper recurring alliance. 
 ## RAD-E
 - Mixed
 	- Not Recognized
 In early stages of RAD-X, infected that still retain sentience retain a neutral attitude to RAD-E, only responding appropriately to hostility. Later stages, however, see completely see RAD-E infected as prey, often preferring to target smaller groups.
+
+## RAD-S
+- Hostile
+RAD-S instances, especially later stages, are mutually hostile and consider each other as threats.

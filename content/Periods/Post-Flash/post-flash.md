@@ -14,3 +14,5 @@ A summary of events after the flash and before the setting of the game
         - Ruled over big portion of the [black belt region](https://kids.kiddle.co/images/thumb/c/c3/Southern_counties_with_40_percent_African-American_population_in_2000.png/420px-Southern_counties_with_40_percent_African-American_population_in_2000.png) before dissolving into different states in the early dustbowl period during push westward.
         - Major factions try to live up to status and power
             - most fail
+- Cerberus mutants do not exist
+	- RAD is cause by cerberus singularity, an ai thats like evil and shit
