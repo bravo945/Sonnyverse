@@ -41,8 +41,17 @@ Former projects:
 - Project Epoch
 	- #epoch
 	- St. Louis, MO
+
+## Fundamental Concepts
+- The focus is on Post Flash America. Any international concepts 
+- Flash Date is moved from 'November 6th, 2032' → 'October 1st, 2044' to accommodate for AI and tech
+	- See #technology, [[big-boom]], and [[quartz/content/artificial-intelligence|artificial-intelligence]]
+- RAD-X Virus is expanded
+	- '[[rad|RAD]]' is default strain with new strains dependent on region
+	- The Cerberus Singularity is no longer a faction of intelligent mutants. It has been replaced by a fusion powered [[cerberus-singularity|AI super-intelligence]] that has taken the lore-role of developing the RAD-X strand.
 ***
 # Indexing
+*because the wiki is under major construction, this index is usually not up-to-date. Use the search feature aswell as tags to navigate more information in the wiki.*
 
 ## Factions
 - [[cdf|(CDF) Civilian Defense Front]]
@@ -55,7 +64,7 @@ Former projects:
 - [[usdp|(USDP) United States Department of Preservation]]
 - [[Organizations/the-vanguard-projects|The Vanguard Projects]]
 ## Diseases
-### (RAD) Radiation Accelerated Disease
+### [[rad|(RAD) Radiation Accelerated Disease]]
 - [[Diseases/rad-x|X-Strand]]
 - [[Diseases/rad-e|E-Strand]]
 - [[Diseases/rad-s|S-Strand]]

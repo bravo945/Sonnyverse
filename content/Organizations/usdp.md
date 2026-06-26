@@ -9,7 +9,7 @@ The Preservation Act, signed off by (The President), was a legally overreaching 
 
 The Preservation Act as a legal document constitutes a sort of 'sub-government' with the Preservation Act. Though under the legal limits of its executive department, this smaller legal sector carries the entirety of the federal state on its back, independent, self-checking, acting in promise to restore the 
 
-It is unclear what details regarding the act were planned before the Flash. Further detail on the USDP as an entity beyond interpretation is officially impossible, as the President committed suicide after ratification of the act.
+It is unclear what details regarding the act were planned before the Flash. Further detail on the USDP as an entity beyond interpretation was declared officially impossible after the suicide of the President shortly after the ratification.
 
 # Preservational Congress
 Sub-Congress (formally known as the Preservational Congress), under the jurisdiction of the USDP, shares equal executive power with the Cabal, serving as a check to the co-working authority. Sub-Congress, composed of 50 initial members, is mostly composed of former federal congressmen/women, electing new members independently through congressional vote. One congress-person is replaced with a state-representative every time a state is considered reclaimed, while completely new states add one new member.
