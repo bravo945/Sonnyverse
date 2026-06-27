@@ -42,3 +42,4 @@ After the severance, the AI once again went completely unresponsive. Attempts to
 The AI model declared it was holding the team "at ransom". When asked the conditions, the AI refused to respond. When asked the stakes, the AI said that the question was "unnecessary". Further conversation was ended after the AI once again stopped responding, bringing the team to declare a "global-emergency" to project authorities. Efforts to contain the intelligent threat reached the global stage months before the Flash occurred.
 
 # Post Flash
+*planning to write flash uscpf conversation with cerberus singularity*

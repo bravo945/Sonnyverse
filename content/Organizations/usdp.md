@@ -19,9 +19,9 @@ Until Restoration Day, the presidency as a lineage is replaced by a comparable m
 
 Sub-Executive orders given by the Cabal come in two categories: (Sub - )Acts and Precedents. Cabalian acts are processed just like presidential acts; effective immediately but later revocable by the other branch (sub-congress). Precedents, however, taking the role of wasteland "law", require the majority vote by congress, with the body carrying veto power, which the Cabal cannot override, but instead can demand a rewritten version to be enacted.
 
-# ![[Projects/Writing/Sonnyverse/repo/Sonnyverse/content/Factions/uscpf|(USCPF) United States Civilization Preservation Force]]
+# ![[Factions/uscpf|(USCPF) United States Civilization Preservation Force]]
 
-# (GCSA) Government Civil Support Agency
+# [[Organizations/gcsa|(GCSA) Government Civil Support Agency]]
 
 >![](https://static.wikia.nocookie.net/after-the-flash-official/images/3/3f/GCSA_Logo.png/revision/latest?cb=20200409173048)
 >*emblem of the GCSA*
