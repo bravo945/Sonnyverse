@@ -133,6 +133,15 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        depth: 3
+        enableDrag: true
+        enableZoom: true
+      globalGraph:
+        depth: -1
+        enableDrag: true
+        enableZoom: true
     layout:
       position: right
       priority: 10
