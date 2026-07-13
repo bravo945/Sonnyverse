@@ -106,6 +106,25 @@ const factions = {
       allies: ['USCPF'],
       enemies: []
     }
+  },
+  'ozark-pact': {
+    name: 'Ozark Pact',
+    emblem: 'Gallery/ozark-pact-flag.png',
+    radarFile: 'assets/faction-radar/ozark-pact.svg',
+    ambition: 5,
+    structure: 6,
+    integrity: 7,
+    color: '#2ecc71',
+    qualities: [
+      { term: 'Commercial', description: 'Interstate trade route control' },
+      { term: 'Diplomatic', description: 'Treaty-based coalition' },
+      { term: 'Militant', description: 'Caravan and settlement defense' },
+      { term: 'Pragmatic', description: 'Adapted through multiple reorganizations' }
+    ],
+    relationships: {
+      allies: [],
+      enemies: ['USCPF']
+    }
   }
 };
 

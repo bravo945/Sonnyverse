@@ -1,11 +1,9 @@
 #epoch #faction #wip #postflash
 ***
-# Ozark Pact
+# Ozark Pact (Ozark Confederacy)
+![[ozark-pact-overview]]
 
->![[Gallery/ozark-pact-flag.png]]
->*Merchant Flag of the Ozark Pact*
-
-The Ozark Pact is a sparse coalition of settlements around the Throughout the Ozark Mountain region, aswell as surrounding mainly the Springfield and St. Louis territories. In its prime, the faction held a expansive strip of Interstate-44, supervising trade and transport throughout its home region.
+The Ozark Pact is a sparse coalition of settlements throughout the Ozark Mountain region, aswell as surrounding mainly the Springfield and St. Louis territories. In its prime, the faction held a expansive strip of Interstate-44, supervising trade and transport throughout its home region.
 
 # History
 ## Formation (~September 2044)
