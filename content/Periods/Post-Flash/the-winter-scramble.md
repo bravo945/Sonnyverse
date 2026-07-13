@@ -1,5 +1,10 @@
-#event #postflash #winter-scramble
+#event #postflash #winter-scramble 
 ***
+# IMPORTANT DISCLAIMER
+
+> This document is currently a discord 'mega-message' revised by AI. This will later be rewritten by a human, but until then im happy that this is actually legible and formatted
+
+
 # The Winter Scramble (2044-2050s)
 
 > *The following text is prologue from Project Epoch lore, prior to the merge with Sonnyverse.*
