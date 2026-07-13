@@ -1,5 +1,9 @@
 #postflash #faction #corridor #deep-winter
 ***
+# The Market
+
+![[the-market-overview]]
+
 The market is a loose militia encompassing most trade around the Halfmoon region.
 
  The most recognizable sub-faction in southern Post Flash America during the [Nuclear Winter] era was the White Star.

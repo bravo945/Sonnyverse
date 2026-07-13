@@ -6,10 +6,10 @@ In this universe, up until the Reconstruction era, the USCPF as a territory bare
 ***
 # (USCPF) United States Civilization Preservation Force
 
->![](https://static.wikia.nocookie.net/after-the-flash-official/images/5/52/USCPF.png/revision/latest?cb=20201202043950)
->*emblem of the USCPF*
+![[uscpf-overview]]
 
 The USCPF (United States Civilization Preservation Force) is the post-flash successor of the United States Armed Forces under the executive [[usdp|Department of Preservation]].
 
 After the Preservation Act, all acting entities, technology, and personnel under the US military are indefinitely under the jurisdiction of the USCPF and its leading Cabal (non-voluntarily).
 
+The USCPF 

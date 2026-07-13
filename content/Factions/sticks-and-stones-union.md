@@ -1,10 +1,11 @@
 #faction #postflash #corridor
 ***
+# Sticks and Stones Union
+![[sns-union-overview]]
+
 The Sticks and Stones Union (or SNS for short) is a group of survivors in the Chicago underground that originate from a union of homeless people who traveled the area before the flash.
 
 ###### Field Symbol for the SNS![[ssu-has-been-here.png]]
-
-
 # Introduction
 Originally a plethora of hobos using the underground areas for safety and opportunity, the flash would force the inhabitants into a chaotic frenzy, fighting tooth and nail daily for crumbs and droplets. As food and drink became even scarcer, with even more people seeking refuge from the surface, each day would bring heaps of bodies succumbing to the dirty crowds.
 
