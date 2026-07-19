@@ -35,10 +35,19 @@
 
 ### Relationships
 **Allies**
-- USCPF
+- [[usdp|USCPF (GCSA, WESTCOM)]]
+	- [[gcsa|GCSA]] (Absolute)
+	- WESTCOM (~2065's - TBW)
+	- Ventures/Treaties TBW
+- [[ozark-pact|Ozark Pact]]
+	- (~2052 - ~Mid-Late 2050's)
+- [[the-market|The Market]]
 
 **Enemies**
-- *None documented*
+- [[uscpf|USCPF]]
+	- TBW
+- [[ozark-pact|Ozark Pact]]
+	- ~Mid-Late 2050's - Dissolution
 
 </td>
 </tr>
