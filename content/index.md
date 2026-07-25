@@ -72,12 +72,12 @@ Former projects:
 - [[Diseases/rad-s|S-Strand]]
 ## Periods
 ### Pre-Flash
-- [[Periods/Pre-Flash/pre-flash|Overview]]
-- [[Periods/Pre-Flash/world-war-iii|World War III]]
+- [[pre-flash|Overview]]
+- [[world-war-iii|World War III]]
 ### Post-Flash
-- [[Periods/Post-Flash/post-flash|Overview]]
-- [[Periods/Post-Flash/nuclear-winter|Nuclear Winter]]
-- [[Periods/Post-Flash/the-crowding|The Crowding]]
+- [[post-flash|Overview]]
+- [[nuclear-winter|Nuclear Winter]]
+- [[the-crowding|The Crowding]]
 
 ty
 
