@@ -56,6 +56,7 @@ Shamblers are loud and aggressive mutants, naturally enraged, and not afraid to 
 Adapted to both bipedal and quadrupedal movement, the Shambler is also vertically-agile, able to climb poles and grip-able surfaces with their hands and feet, albeit a little slow.
 
 ### S-8A: "Stalker"
+![Vignette Depicts a pack of RAD-S mutants, led by an S-8 Stalker.](cathedral-vignette-zoom.png)
 The final stage of the A-Strain, a Stalker has mastered its environment, becoming both a respected leader of the growth it resides in and an urban legend among the uninfected. Learning to manage its inherent anger, the Stalker is the only mutant that can properly "calm" confronted Shamblers, incentivizing them to follow behind the mutant, creating a sort of pack dynamic. The mastery of an S-8A is unique in that one Shambler cannot just radiate itself into this final stage, rather it takes time, experience, and observation of another Stalker.
 
 The silence and watchfulness of a Stalker does not mean it is at all afraid or unengaging. A Stalker is much the opposite, using its time and analysis to find a sophisticated and more effective plan of infection than the Shambler's familiar blind rage. From this calculation, many groups of wastelanders - even armed - have fallen victim to a skilled Stalker, infecting (or killing) impressive swathes of people at once. From stories of survivors, the presence of a Stalker has become urban legend, subjecting many either in disbelief or in complete fear of the night.

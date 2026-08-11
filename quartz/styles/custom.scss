@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Title image - scales responsively, caps at 25% width or 200px
+.article-title + img,
+.markdown-preview-view > p:first-child img,
+.popover-hint > p:first-of-type img {
+  max-width: min(25%, 200px);
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
