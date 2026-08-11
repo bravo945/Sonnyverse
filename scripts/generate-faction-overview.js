@@ -248,7 +248,7 @@ ${enemiesList}
 
 // Main execution
 const args = process.argv.slice(2);
-const outputDir = path.join(__dirname, '..', 'content', 'faction-overviews');
+const outputDir = path.join(__dirname, '..', 'content', 'not-for-github', 'assets', 'faction-overviews');
 
 if (args.length > 0) {
   // Generate single faction
