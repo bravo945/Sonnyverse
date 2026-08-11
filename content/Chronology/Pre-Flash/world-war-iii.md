@@ -1,7 +1,7 @@
 #preflash [Wiki Page](https://after-the-flash-official.fandom.com/wiki/World_War_III?so=search)
 ***
 
-> *(I will not go too into too much detail regarding political, geographical, and statistical inforamation. I will focus more on the domestic events and a summary of events that the average citizen would know about. I'm not going to act like I know that much of world history to accurately depict, yall can make your own headcanons idc)*
+> *(I will not go too into too much detail regarding political, geographical, and statistical information. I will focus more on the domestic events and a summary of events that the average citizen would know about. I'm not going to act like I know that much of world history to accurately depict, yall can make your own headcanons idc)*
     
 - Starts in 2029
     - People's Republic of China stays in power
