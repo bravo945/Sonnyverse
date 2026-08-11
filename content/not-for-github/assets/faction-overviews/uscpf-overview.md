@@ -39,6 +39,9 @@
 
 **Enemies**
 - Unamerica
+- SLF
+- Libertaria
+- Cerberus Singularity
 
 </td>
 </tr>
