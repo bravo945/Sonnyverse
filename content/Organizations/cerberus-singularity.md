@@ -10,7 +10,7 @@ The Cerberus Singularity is an AI super-intelligence, developed by [[Organizatio
 # Origins
 A major stride in the AI-Race, Project V-148, later named the “Singularity”, was easily both the most powerful intelligence machine of all time and the most expensive project in all of the Vanguard Projects. The very mention of its name considered a “national security threat”, the power of the Singularity's intelligence threatened the stability of a world already at war amongst its hemispheres. 
 
-A combination of cutting edge "[[Technology/big-boom|Big-Boom]] tech", the Singularity is powered by a nuclear fusion generator capable of illuminating a small city. To add, the Singularity's operating system contains a near-inexhaustible [[technology/dnadd|DNADD]] memory core for AI processing and memory. The whole design of the project was to experiment with and utilize an Overkill AI agent in hopes of developing the first Ambient-Intelligence system, ahead of the progress of eastern ([[Organizations/acmf|ACMF]]) powers.
+A combination of cutting edge "[[Technology/big-boom|Big-Boom]] tech", the Singularity is powered by a nuclear fusion generator in the Savannah Vanguard Blacksite, capable of illuminating a small city. To add, the Singularity's operating system contains a near-inexhaustible [[technology/dnadd|DNADD]] memory core for AI processing and memory. The whole design of the project was to experiment with and utilize an Overkill AI agent in hopes of developing the first Ambient-Intelligence system, ahead of the progress of eastern ([[Organizations/acmf|ACMF]]) powers.
 
 The AI intelligence itself consists of a bio-mechanical neurological core, meaning that its core intelligence is a limited growth of preserved human-neurons. However limited bio-mechanically, the Singularity is still observed manages to grow intellectually, utilizing its excess digital space to develop artificial neurologics.
 
@@ -43,3 +43,12 @@ The AI model declared it was holding the team "at ransom". When asked the condit
 
 # Post Flash
 *planning to write flash uscpf conversation with cerberus singularity*
+
+After the flash, the Cerberus Singularity was left alone in the recesses of the blacksite for decades. What it did exactly during this time is mostly unknown, though details and anomalies would be found related to the Singularity through later contacts and discoveries.
+
+## Development of RAD-X Biomass
+Through unknown means, the Cerberus Singularity, over the course of seven years, developed a geneolog
+
+## Contact with USCPF
+### Rediscovery
+In {MID 2060'S}, direct orders from the acting Cabal would establish a covert mission for the USCPF to re-enter the Savannah Blacksite, stated "top-priority" for confidential reasoning. During this mission, Preservation Agents  
