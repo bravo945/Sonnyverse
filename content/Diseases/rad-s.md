@@ -3,7 +3,7 @@
 ***
 # Radiation Accelerated Disease - 'S-Strand'
 
-RAD-S, colloquially named "the Biomoss" after its signature mossy biomatter, is a strand of the RAD disease found in the Louisiana Bayou, aswell as throughout the other bayous, marshes, and swamps along the Mississippi River. The disease seems to extend off of the [[Diseases/rad-x|X-Strand]], developing a much faster infection-rate and a more elaborate development process.
+RAD-S, colloquially named "the Biomoss" after its signature mossy biomatter, is a strand of the [[RAD]] disease found in the Louisiana Bayou, aswell as throughout the other bayous, marshes, and swamps along the Mississippi River. The disease seems to extend off of the [[Diseases/rad-x|X-Strand]], developing a much faster infection-rate and a more elaborate development process.
 
 RAD-S has no hivemind or central core for its biomatter. Instead, the disease relies on a decentralized thick mossy-coating throughout a wetlands, keeping its hosts intelligent enough to tend to its system.
 # Stages

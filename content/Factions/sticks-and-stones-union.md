@@ -7,7 +7,7 @@ The Sticks and Stones Union (or SNS for short) is a group of survivors in the Ch
 
 ###### Field Symbol for the SNS![[ssu-has-been-here.png]]
 # Introduction
-Originally a plethora of hobos using the underground areas for safety and opportunity, the flash would force the inhabitants into a chaotic frenzy, fighting tooth and nail daily for crumbs and droplets. As food and drink became even scarcer, with even more people seeking refuge from the surface, each day would bring heaps of bodies succumbing to the dirty crowds.
+Originally a plethora of homeless people using the underground areas for safety and opportunity, the flash would force the inhabitants into a chaotic frenzy for survival, survivors fighting ferociously amongst each other over simple meals. As food and drink became even scarcer, along with even more crowds of surviving refugees overpopulating the tunnels, the underground would become a vicious ghetto full of people, bodies, and sewage.
 
 The tunnels remained a wild hellhole until the city surface was habitable again, giving many an opportunity to find more food. This extension would release many from the overflowing depths of the tunnels, calling many more to use findings from the surface to trade with those who couldn't ascend.
 
