@@ -3,4 +3,8 @@
 > *The White Star Faction was originally under the article of [[the-market]], but i feel its fit to give it its own article for clarity*
 # The White Star
 
-The white star is a vague militia focused on protecting and sustaining the economic network of the Chicago underground. 
+The White Star is a vague mercenary-militia focused on protecting and sustaining the economic network of the Chicago underground. Notable by their graffiti symbol, any population or pathway carrying the white star is protected by the militia.
+# Origins
+Originally a formal "task force" for the [[fulton-mall|Fulton Mall Shanty Town]]'s security team, the group consisted of paid-volunteers, tasked with escorts and counter-offensive measures against bandits and [[unamerica|Unamerican]] activity. Over time, as the force grew in members and utility, the face of the White Star would show itself in other scrap towns, the group opening itself up to any contractors able to reach their front desk.
+
+In the present day *(corridor)*, the White Star has mostly become a volunteer service, pragmatically becoming [[the-market|the Market's]] security force. Most White-Star militiamen never signed up at the mall

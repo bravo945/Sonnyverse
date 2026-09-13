@@ -18,7 +18,7 @@ The Chicago Hobo Riots would grow the Unamericans in both numbers, influence, an
 ### Minneapolis Anarchy Zone
 For a very brief couple of weeks, rioters carrying the unamerican flag in Minneapolis managed to evacuate the city hall, forming a small legal exclusion zone of "Organized Disorder (to quote media sources)". Though attempts to create a community "peace-keeping" system of volunteer security, the chaos of a city-wide riot would naturally break efforts under sudden altercations and pressure from police-profiling technology, which noted the faces of armed "unofficiaries" for future legal action.
 ## Post-Flash
-Unamerica as a decentralized national movement generally died with the flash, apart from the occasional prepper communities that flew the banner. However, Chicago's Unamericans, given their previous struggles and connections underground, would find the symbol a viable ideological tool to survive under. The brutality of nuclear winter would only radicalize the anarchist minds of the underground, each day of survival closer to a world of decentralized idealism.
+Unamerica as a decentralized national movement generally died with the flash, apart from the occasional prepper communities that flew the banner. However, Chicago's Unamericans, given their previous struggles and connections underground, would find the symbol a viable ideological tool to survive under. The brutality of nuclear winter would only radicalize the anarchist minds of the underground, with many former accelerationists seeing the nuclear disaster as an opportunity to establish their dream of a decentralized, anarchist world.
 ### [[the-crowding|The Chicago Crowding]]
-
+The Chicago crowding would both challenge and radicalize the general thesis of the local Unamericans
 ### [[the-collapse|The Collapse]]
