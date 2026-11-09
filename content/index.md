@@ -52,33 +52,6 @@ Former projects:
 	- '[[rad|RAD]]' is default strain with new strains dependent on region
 	- The Cerberus Singularity is no longer a faction of intelligent mutants. It has been replaced by a fusion powered [[cerberus-singularity|AI super-intelligence]] that has taken the lore-role of developing the RAD-X strand.
 ***
-# Indexing
-*because the wiki is under major construction, this index is usually not up-to-date. Use the search feature aswell as tags to navigate more information in the wiki.*
-
-## Factions
-- [[cdf|(CDF) Civilian Defense Front]]
-- [[Sonnyverse/content/Factions/sticks-and-stones-union|Sticks and Stones Union]]
-- [[Sonnyverse/content/Factions/the-market|The Market]]
-- [[Sonnyverse/content/Factions/unamerica|Unamerica]]
-- [[Sonnyverse/content/Factions/uscpf|USCPF]]
-## Organizations
-- [[aics|(AICS) Artificial Intelligent Combat System]]
-- [[usdp|(USDP) United States Department of Preservation]]
-- [[Organizations/the-vanguard-projects|The Vanguard Projects]]
-## Diseases
-### [[rad|(RAD) Radiation Accelerated Disease]]
-- [[Diseases/rad-x|X-Strand]]
-- [[Diseases/rad-e|E-Strand]]
-- [[Diseases/rad-s|S-Strand]]
-## Periods
-### Pre-Flash
-- [[pre-flash|Overview]]
-- [[world-war-iii|World War III]]
-### Post-Flash
-- [[post-flash|Overview]]
-- [[nuclear-winter|Nuclear Winter]]
-- [[the-crowding|The Crowding]]
-
 ty
 
 ![[pink-bitch.png]]
