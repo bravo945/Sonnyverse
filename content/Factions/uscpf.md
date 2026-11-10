@@ -12,4 +12,4 @@ The USCPF (United States Civilization Preservation Force) is the post-flash succ
 
 After the Preservation Act, all acting entities, technology, and personnel under the US military are indefinitely under the jurisdiction of the USCPF and its leading Cabal (non-voluntarily).
 
-The USCPF 
+The USCPF is easily the most powerful faction in [[pfa|PFA]]

@@ -13,7 +13,7 @@ Individuals can only contract RAD-X if they are exposed to mutants or biomass of
 # Biomass
 Biomass are masses of organic, fungal-like tissue, fueled by warmth, radiation, and decomposed organisms. Biomass structures can grow indefinitely depending on their biotic factors and general intake.
 
-In pursuit of absolute symbiosis with its infected agents, RAD-X biomass supports mutants in all kinds of ways; from sheltering, healing, accelerating mutation, to connecting all mutants under a structure to a general hivemind. The biomass serves as more than a structure, being a local network for the disease to consciously impose and improve itself over the general network.
+In pursuit of absolute symbiosis with its infected agents, RAD-X biomass supports mutants in all kinds of ways; from sheltering, healing, and accelerating mutation, to connecting all mutants under a structure to a general hivemind. The biomass serves as more than a structure, being a local network for the disease to consciously impose and improve itself over the general network.
 
 
 
